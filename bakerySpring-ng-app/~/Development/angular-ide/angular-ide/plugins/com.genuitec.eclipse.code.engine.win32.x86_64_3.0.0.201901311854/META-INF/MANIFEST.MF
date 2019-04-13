@@ -1,0 +1,58 @@
+Manifest-Version: 1.0
+Bundle-SymbolicName: com.genuitec.eclipse.code.engine.win32.x86_64;sin
+ gleton:=true
+Archiver-Version: Plexus Archiver
+Built-By: jenkins
+Bundle-ManifestVersion: 2
+Bundle-RequiredExecutionEnvironment: JavaSE-1.8
+Eclipse-PlatformFilter: (& (osgi.ws=win32)(osgi.os=win32)(osgi.arch=x8
+ 6_64))
+Bundle-Vendor: Genuitec, LLC
+Fragment-Host: com.genuitec.eclipse.code.core;bundle-version="0.0.1"
+Bundle-Name: CodeMix Engine for Window 64bit
+Bundle-Version: 3.0.0.201901311854
+Bundle-ClassPath: jna-4.5.1.jar,.
+Created-By: Apache Maven 3.5.0
+Build-Jdk: 1.8.0_45
+Eclipse-BundleShape: dir
+
+Name: com/genuitec/eclipse/code/engine/W32API.class
+SHA-256-Digest: 6udGhp4MBB/Ljg7fNbOa8oG2+kGI0p/PEb2DYm5nU18=
+
+Name: engine/base.zip
+SHA-256-Digest: DyN3Tqdv+J5aLn69Jj7xPE2GLCCYu1IgQLGy00J/zcQ=
+
+Name: engine/engine.json
+SHA-256-Digest: c1ojh0GiefMHwPmMVXGQUfQXoUX1dcoC+V0uS2jZQs0=
+
+Name: fragment.xml
+SHA-256-Digest: ugUPfV8YwvczfHBS8cqmMzuL6Uj89mpGJCPvPVkRs4s=
+
+Name: com/genuitec/eclipse/code/engine/W32Errors.class
+SHA-256-Digest: p8mmHs6hX4YjxZHeU7nm+Pp6AyhYxadPAOLDR5M0NlU=
+
+Name: com/genuitec/eclipse/code/engine/EmbeddedEngine.class
+SHA-256-Digest: 3P21snRuVqItvr3csG3J1di8mliK3H/EJEZB5iWu0gc=
+
+Name: jna-4.5.1.jar
+SHA-256-Digest: +8nelqDMGToSW0AI28NI6e1U5eE/xnuO1A5kXTA8xRs=
+
+Name: com/genuitec/eclipse/code/engine/W32API$1.class
+SHA-256-Digest: oyrgMetijn6poj1Fg2HRiiR24fqZtfz9bLYjKUYdqv4=
+
+Name: com/genuitec/eclipse/code/engine/W32API$HANDLE.class
+SHA-256-Digest: x6V0LVfzwqajftoI3z44G+atF4NCT7DpntWjJ/OQ5Us=
+
+Name: com/genuitec/eclipse/code/engine/EmbeddedEngine$ProcessDetails.c
+ lass
+SHA-256-Digest: 2dVjjO30ts1AMUU/xD6s81OQB8kwp8UXh3vWRypcV64=
+
+Name: com/genuitec/eclipse/code/engine/W32API$2.class
+SHA-256-Digest: /uckxNaIIGDoFALDtagCiVdDvtdZaH3JhCQCo+lY4yc=
+
+Name: com/genuitec/eclipse/code/engine/Kernel32.class
+SHA-256-Digest: c9yPLM+TtumFN7bHlUubgioBra/MywwGmA6d+mA2o58=
+
+Name: com/genuitec/eclipse/code/engine/W32API$3.class
+SHA-256-Digest: G32U+z/CxBfImyohIAGPgmBqwIYBDvyltRCWM/9XBDg=
+

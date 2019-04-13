@@ -1,0 +1,12 @@
+Signature-Version: 1.0
+SHA-256-Digest-Manifest-Main-Attributes: iYIprGUE+FQmNlhMyErRWQkGmXSFy
+ FXoP97skHQYDv0=
+SHA-256-Digest-Manifest: PZxI8ToVUqlRYxhDu6PXRlqGepfIdsHsKb35Qn13a/8=
+Created-By: 1.8.0_45 (Oracle Corporation)
+
+Name: engine/app.zip
+SHA-256-Digest: hBAZTl86iZ+Ws4XZTmVzrA2WS1ftr5lSO8xe2YPYbAA=
+
+Name: engine/engine.json
+SHA-256-Digest: pYTSNC/2/ZpgrTLXEtuwN4AmFhxOyoeW3JKGYQ+3L2k=
+

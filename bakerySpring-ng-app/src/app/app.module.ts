@@ -1,22 +1,28 @@
 import { BrowserModule } from '@angular/platform-browser';
 import { NgModule } from '@angular/core';
-import {NgbModule} from '@ng-bootstrap/ng-bootstrap';
 
 import { AppRoutingModule } from './app-routing.module';
 import { AppComponent } from './app.component';
 import { NavigationComponent } from './navigation/navigation.component';
 import { CarouselComponent } from './carousel/carousel.component';
+import { WarningAlertComponent } from './warning-alert/warning-alert.component';
+
+
+import { LoginComponent } from './login/login.component';
+import { ParagraphsComponent } from './paragraphs/paragraphs.component';
 
 @NgModule({
   declarations: [
     AppComponent,
     NavigationComponent,
-    CarouselComponent
+    CarouselComponent,
+    WarningAlertComponent,
+    LoginComponent,
+    ParagraphsComponent,
   ],
   imports: [
     BrowserModule,
-    NgbModule.forRoot(),
-    AppRoutingModule
+    AppRoutingModule,
   ],
   providers: [],
   bootstrap: [AppComponent]

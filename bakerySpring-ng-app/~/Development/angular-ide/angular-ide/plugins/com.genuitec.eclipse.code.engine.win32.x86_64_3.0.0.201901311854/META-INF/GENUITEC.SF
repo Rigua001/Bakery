@@ -1,0 +1,46 @@
+Signature-Version: 1.0
+SHA-256-Digest-Manifest-Main-Attributes: dp2yP9OKlKSjo4a7pYsZMJsM3WFfy
+ DN3jd561nvxdH8=
+SHA-256-Digest-Manifest: XVlSMZzSHw5QfswfDkns88xyaWU8/ZU6cfV1uOKt/08=
+Created-By: 1.8.0_45 (Oracle Corporation)
+
+Name: com/genuitec/eclipse/code/engine/W32API.class
+SHA-256-Digest: +JeFRvUkZvgK9QSbSGpc+J0uArmOAAgpAWcSUpeo70g=
+
+Name: engine/base.zip
+SHA-256-Digest: 3BHEsiuyBjEdUbqILWpjQbgDSdI8IJCsNsUNX5CA0oU=
+
+Name: engine/engine.json
+SHA-256-Digest: 06ytAJCsVkjGySiq7k1uNpHpBi7gz3JwMunhQx8F8fU=
+
+Name: fragment.xml
+SHA-256-Digest: /l3sPTVYgFh8XJmsUaY0Uy9BgY51uLt/uO3IQPTPlHg=
+
+Name: com/genuitec/eclipse/code/engine/W32Errors.class
+SHA-256-Digest: rn4H0UP0SrEfpf16apD9C3QGxQv2FMflLjmVHjYpO6Q=
+
+Name: com/genuitec/eclipse/code/engine/EmbeddedEngine.class
+SHA-256-Digest: NgYwj0gCZwTyS3IRUDJG5NWpIJHNHdb6L1m66DSEhSE=
+
+Name: jna-4.5.1.jar
+SHA-256-Digest: 3NDR0iUP8ifWRb3bttps6pafnGYZ9Bz7fcj8wBLW8ME=
+
+Name: com/genuitec/eclipse/code/engine/W32API$1.class
+SHA-256-Digest: dG4Mj+5ovfZG+G4mLTjFi2/gH75QpcTKckwjEIpxFbU=
+
+Name: com/genuitec/eclipse/code/engine/W32API$HANDLE.class
+SHA-256-Digest: QpwetfqjQ8C/KEneKO3sQRL8tt43DVy2rL0mRzoM7h8=
+
+Name: com/genuitec/eclipse/code/engine/EmbeddedEngine$ProcessDetails.c
+ lass
+SHA-256-Digest: jJyCUZfrMYaXdKWF5MTLo3yLp6t6u2eylMXTjQXm5iw=
+
+Name: com/genuitec/eclipse/code/engine/W32API$2.class
+SHA-256-Digest: 9TX2WO+K6A1ZQjTmEzJz/QNOGDQgBcG79867W2AIinc=
+
+Name: com/genuitec/eclipse/code/engine/Kernel32.class
+SHA-256-Digest: u6X9apuFcxsUmMi7shoYiVwYin02pr3WgXtfnW1RI5Y=
+
+Name: com/genuitec/eclipse/code/engine/W32API$3.class
+SHA-256-Digest: uWUSwOp+wptBcpiwVvohNgUMSVBrV2fGUWp9i9m9djo=
+

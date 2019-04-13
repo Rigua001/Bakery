@@ -1,0 +1,4 @@
+ requires.0.namespace = org.eclipse.equinox.p2.iu
+ requires.0.name = com.genuitec.eclipse.webclipse.navigation.feature.feature.group
+ requires.0.min = 0
+ requires.0.max = 0

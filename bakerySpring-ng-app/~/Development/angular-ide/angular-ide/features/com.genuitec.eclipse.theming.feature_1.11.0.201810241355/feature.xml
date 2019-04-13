@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feature
+      id="com.genuitec.eclipse.theming.feature"
+      label="DevStyle (includes Darkest Dark Theme)"
+      version="1.11.0.201810241355"
+      provider-name="Genuitec, LLC">
+
+   <description url="https://www.genuitec.com/products/webclipse/">
+      DevStyle provides themes &amp; more to enhance Eclipse’s style, including
+the #1 Darkest Dark theme.
+   </description>
+
+   <copyright>
+      %copyright
+   </copyright>
+
+   <license>
+      %license
+   </license>
+
+   <includes
+         id="com.genuitec.eclipse.base.feature"
+         version="1.11.0.201810241355"/>
+
+   <requires>
+      <import feature="org.eclipse.platform" version="4.6.0" match="greaterOrEqual"/>
+      <import plugin="org.eclipse.nebula.widgets.gallery" version="1.0.0" match="greaterOrEqual"/>
+   </requires>
+
+   <plugin
+         id="com.genuitec.eclipse.webicons"
+         download-size="627"
+         install-size="1287"
+         version="1.11.0.201810241355"
+         unpack="false"/>
+
+   <plugin
+         id="com.genuitec.eclipse.theming.base"
+         download-size="69"
+         install-size="161"
+         version="1.11.0.201810241355"
+         unpack="false"/>
+
+   <plugin
+         id="com.genuitec.eclipse.theming.base.mac"
+         os="macosx"
+         ws="cocoa,win32"
+         arch="x86_64"
+         download-size="3"
+         install-size="2"
+         version="1.11.0.201810241355"
+         fragment="true"/>
+
+   <plugin
+         id="com.genuitec.eclipse.theming.core"
+         download-size="323"
+         install-size="1544"
+         version="1.11.0.201810241355"
+         unpack="false"/>
+
+   <plugin
+         id="com.genuitec.eclipse.theming.scrollbar"
+         download-size="327"
+         install-size="806"
+         version="1.11.0.201810241355"
+         unpack="false"/>
+
+   <plugin
+         id="com.genuitec.eclipse.theming.scrollbar.mac"
+         os="macosx"
+         ws="cocoa"
+         arch="x86_64"
+         download-size="5"
+         install-size="4"
+         version="1.11.0.201810241355"
+         fragment="true"
+         unpack="false"/>
+
+   <plugin
+         id="com.genuitec.eclipse.theming.ui"
+         download-size="2655"
+         install-size="3111"
+         version="1.11.0.201810241355"
+         unpack="false"/>
+
+   <plugin
+         id="com.genuitec.eclipse.theming.base.win"
+         os="win32"
+         ws="win32"
+         arch="x86,x86_64"
+         download-size="6"
+         install-size="14"
+         version="1.11.0.201810241355"
+         fragment="true"/>
+
+   <plugin
+         id="com.genuitec.eclipse.theming.scrollbar.win"
+         os="win32"
+         ws="win32"
+         arch="x86,x86_64"
+         download-size="17"
+         install-size="61"
+         version="1.11.0.201810241355"
+         fragment="true"
+         unpack="false"/>
+
+   <plugin
+         id="com.genuitec.eclipse.webclipse.evergreen"
+         download-size="106"
+         install-size="208"
+         version="1.11.0.201810241355"
+         unpack="false"/>
+
+   <plugin
+         id="com.genuitec.eclipse.theming.epl"
+         download-size="717"
+         install-size="1367"
+         version="1.11.0.201810241355"/>
+
+   <plugin
+         id="com.genuitec.eclipse.theming.css"
+         download-size="29"
+         install-size="132"
+         version="1.11.0.201810241355"/>
+
+   <plugin
+         id="com.genuitec.eclipsecolortheme.api"
+         download-size="117"
+         install-size="291"
+         version="1.11.0.201810241355"
+         unpack="false"/>
+
+   <plugin
+         id="com.genuitec.eclipse.startup"
+         download-size="2050"
+         install-size="2774"
+         version="1.11.0.201810241355"
+         unpack="false"/>
+
+   <plugin
+         id="com.genuitec.eclipse.startup.workspace"
+         download-size="34"
+         install-size="65"
+         version="1.11.0.201810241355"
+         unpack="false"/>
+
+   <plugin
+         id="com.genuitec.eclipse.inlinesearch"
+         download-size="91"
+         install-size="169"
+         version="1.11.0.201810241355"
+         unpack="false"/>
+
+   <plugin
+         id="com.genuitec.eclipse.meexplorer"
+         download-size="117"
+         install-size="232"
+         version="13.0.0.201810241355"
+         unpack="false"/>
+
+</feature>

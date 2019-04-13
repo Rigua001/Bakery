@@ -1,0 +1,23 @@
+Manifest-Version: 1.0
+Bundle-SymbolicName: com.genuitec.eclipse.code.engine.app.win32.x86_64
+ ;singleton:=true
+Archiver-Version: Plexus Archiver
+Built-By: jenkins
+Bundle-ManifestVersion: 2
+Bundle-RequiredExecutionEnvironment: JavaSE-1.8
+Eclipse-PlatformFilter: (& (osgi.ws=win32)(osgi.os=win32)(osgi.arch=x8
+ 6_64))
+Bundle-Vendor: Genuitec, LLC
+Fragment-Host: com.genuitec.eclipse.code.core;bundle-version="0.0.1"
+Bundle-Name: CodeMix Engine for Window 64bit
+Bundle-Version: 3.0.0.201902121531
+Created-By: Apache Maven 3.5.0
+Build-Jdk: 1.8.0_45
+Eclipse-BundleShape: dir
+
+Name: engine/app.zip
+SHA-256-Digest: /y3/gySt9bhIYHSzUHKcGHtbIgzvt+4FGGKSe5RBFZM=
+
+Name: engine/engine.json
+SHA-256-Digest: ZrBDXmRZ4bEFK0gzqhLtxSypruQwrzptIyFYOdb5YjE=
+
